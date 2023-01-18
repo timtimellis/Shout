@@ -5,7 +5,7 @@
 //  Created by Jake Heiser on 3/6/18.
 //
 
-import CSSH
+@_implementationOnly import libssh2
 
 public struct SSHError: Swift.Error, CustomStringConvertible {
     

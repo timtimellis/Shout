@@ -5,7 +5,7 @@
 //  Created by Jake Heiser on 3/4/18.
 //
 
-import CSSH
+@_implementationOnly import libssh2
 import struct Foundation.Data
 import struct Foundation.URL
 

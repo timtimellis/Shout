@@ -1,0 +1,6 @@
+module libssh2 {
+    header "../../iSSH2/libssh2.xcframework/ios-arm64_arm64e/libssh2.framework/Headers/libssh2.h"
+    header "../../iSSH2/libssh2.xcframework/ios-arm64_arm64e/libssh2.framework/Headers/libssh2_publickey.h"
+    header "../../iSSH2/libssh2.xcframework/ios-arm64_arm64e/libssh2.framework/Headers/libssh2_sftp.h"
+    export *
+}
